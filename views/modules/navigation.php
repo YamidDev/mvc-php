@@ -1,5 +1,5 @@
 <nav  class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="index.php?action=home">
         <img src="./public/img/logo.png" alt="_logo" width="36" height="36" class="d-block"
              viewBox="0 0 612 612" role="img" focusable="false">
     </a>

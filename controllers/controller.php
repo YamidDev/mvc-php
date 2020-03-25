@@ -7,10 +7,14 @@
         }
 
         public function linkPagesController() {
-            $linksController = $_GET['action'];
+
+            if (isset($_GET['action'])){
+                $linksController = $_GET['action'];
+            }else {
+                $linksController = 'home.php';
+            }
 
             $response = LinkPages::LinkPagesModel($linksController);
-
             include $response;
         }
     }
