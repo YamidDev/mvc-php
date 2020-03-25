@@ -20,6 +20,18 @@
             <li class="nav-item">
                 <a class="nav-link" href="index.php?action=contact">Contact us</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index.php?action=login">login</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index.php?action=register">register</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index.php?action=users">users</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="index.php?action=exit">exit</a>
+            </li>
         </ul>
     </div>
 </nav>

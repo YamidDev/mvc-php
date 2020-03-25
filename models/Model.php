@@ -5,7 +5,12 @@
         public function LinkPagesModel($linksModel) {
             if ($linksModel == "about"||
                 $linksModel == "services"||
-                $linksModel == "contact") {
+                $linksModel == "contact" ||
+                $linksModel == "login" ||
+                $linksModel == "register" ||
+                $linksModel == "users" ||
+                $linksModel == "exit"
+            ) {
                 $module = "views/modules/".$linksModel.".php";
             } else if($linksModel == 'home') {
                 $module = "views/modules/home.php";
