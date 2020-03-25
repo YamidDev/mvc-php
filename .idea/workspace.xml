@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b2fafb8-5d79-42dc-baa5-9df83a2aef68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/about_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/contact_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/modules/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/modules/navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/template.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +62,7 @@
       <updated>1585148345754</updated>
       <workItem from="1585148347250" duration="708000" />
       <workItem from="1585149071128" duration="186000" />
-      <workItem from="1585149273479" duration="1814000" />
+      <workItem from="1585149273479" duration="3820000" />
     </task>
     <servers />
   </component>

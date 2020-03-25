@@ -1,1 +1,1 @@
-<h1 class="card">Home</h1>
+<h1 class="card-title">Home page</h1>

@@ -12,7 +12,7 @@
     <?php require_once 'modules/navigation.php'; ?>
     <div class="container">
         <section>
-            <h1>Home page</h1>
+            <?php $mvc = new MvcController(); $mvc->linkPagesController(); ?>
         </section>
     </div>
 
