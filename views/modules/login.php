@@ -15,3 +15,20 @@
         </form>
     </div>
 </div>
+
+<?php
+
+    $login = new MvcController();
+    $login ->login();
+
+    if(isset($_GET['action']) && $_GET['action'] == 'error') {
+        echo "<script>
+                Swal.fire(
+                  'Oops!!',
+                  'Bad Credentials',
+                  'error'
+                )
+              </script>";
+    }
+
+?>
